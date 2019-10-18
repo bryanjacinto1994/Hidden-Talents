@@ -41,7 +41,7 @@ Every images that is saved from an image folder will append to the html page by 
 
 
 ## Learning points
-This project was a great excercize in dynamically manipulating databases with user (and admin) input via interactivity within the app. Being able to add something in and instantly see it added into the right areas of the page was one of the biggest obstacles and main points of our app. 
+This project was a great excercise in dynamically manipulating databases with user (and admin) input via interactivity within the app. Being able to add something in and instantly see it added into the right areas of the page was one of the biggest obstacles and main points of our app. 
 
 Technology aside, another huge learning point was group dynamics and just how important keeping up with communication and being on the same page helps immensly with being efficient overall and having a coherent, concise back end and easy to interface front end.
 
