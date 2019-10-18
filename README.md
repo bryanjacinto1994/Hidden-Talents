@@ -51,14 +51,22 @@ Technology aside, another huge learning point was group dynamics and just how im
 * Message inbox to begin collaborating or purchasing art from other users
 * Commenting on each Pictures
 
-## Author Links
-[Bryan Jacinto](https://github.com/bryanjacinto1994)
+## Author Links: 
+### - Bryan Jacinto: <br>
+Github: <br> https://github.com/bryanjacinto1994 <br>
+Linkedin: <br> https://www.linkedin.com/in/bryan-jacinto-100438aa/
+### - Alexei Dias: <br>
+Github: <br>https://github.com/AlexeiDias <br>
+Linkedin: <br> https://www.linkedin.com/in/alexei-dias-b4054a164/
 
-[Jerry Dudum](https://github.com/Jerry-Dudum)
+### - Raj Sodhi : <br>
+Github: <br>https://github.com/Rajsodhi1 <br>
+Linkedin: <br> https://www.linkedin.com/in/raj-sodhi
 
-[Alexei Dias](https://github.com/AlexeiDias)
+### - Jerry Dudun: <br>
+Github: <br>https://github.com/Jerry-Dudum <br>
+Linkedin: <br> https://www.linkedin.com/in/jsdudum/
 
-[Raj Sodhi](https://github.com/Rajsodhi1)
 
 
 
