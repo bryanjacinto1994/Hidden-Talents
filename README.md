@@ -20,9 +20,6 @@ Users are greeted with a splash page containing some preview images. Clicking th
 ## Code snippet
 ![Turn.JS](https://i.imgur.com/0s1SHX1.png "Turn.JS")
 This snippet shows how the page loads on to the index.html homepage. 
-Every images that is saved from an image folder will append to the html page by using
-
-“img.attr(‘src’, ‘folder route’ + page + ‘name of the picture file’);
 
 - By using the jQuery method to make a new image tag, I placed it in a variable called image. The image tag is then executed by using the mousedown method. The mousedown method will occur where the mouse button is clicked on the selected element. Also by using the preventDefault method, it will allow to cancel the event if it is cancellable, so that action where the belonging event takes place, will not occur at all. 
 - How the pages are loaded on to the flip-book design (Turn.JS library), the load() method was used. This method will load the data from the server and then will place the returned HTML into the matched elements I want to look for. 
